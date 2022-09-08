@@ -1,4 +1,4 @@
-# How-to-Set-Up-a-Chess-Board
+# How to Set Up a Chess Board
 
 Chess is a game unlike most others. As a result, if you have never played chess before, setting up a chess board can be a little tricky. But don't worry - once you get the hang of where all the pieces go, you will be able to do it with your eyes closed!
 
